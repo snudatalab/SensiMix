@@ -134,3 +134,18 @@ If other packages are required, use "pip install" to install them.
 
 *This software may be used only for research evaluation purposes.*
 *For other purposes (e.g., commercial), please contact the authors.*
+
+## Reference
+If you use this code, please cite the following paper.
+```
+@article{piao2022sensimix,
+  title={SensiMix: Sensitivity-Aware 8-bit index \& 1-bit value mixed precision quantization for BERT compression},
+  author={Piao, Tairen and Cho, Ikhyun and Kang, U},
+  journal={PloS one},
+  volume={17},
+  number={4},
+  pages={e0265621},
+  year={2022},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+```
